@@ -1,4 +1,10 @@
+p{
+    color: rebeccapurple;
+    background-color: antiquewhite;
+}
+div{
+    color: goldenrod;
+}
 body{
-    background-color: rgb(213, 219, 220);
-   
+    background-color: rgba(0, 78, 81, 0.434);
 }
